@@ -2,7 +2,7 @@
     "builds": [
       {
         "src": "your-build-command",
-        "use": "@vercel/php",
+        "use": "@vercel/php"
       }
     ]
   }

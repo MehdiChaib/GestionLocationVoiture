@@ -1,0 +1,9 @@
+{
+    "builds": [
+      {
+        "src": "your-build-command",
+        "use": "@vercel/php",
+        "output": "public"
+      }
+    ]
+  }
